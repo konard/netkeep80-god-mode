@@ -1,5 +1,11 @@
 # god-mode
 
+## 0.2.1
+
+### Patch Changes
+
+- bd36d99: Add project analysis, README documentation, and phased development roadmap
+
 ## 0.2.0
 
 ### Minor Changes
